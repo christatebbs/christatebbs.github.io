@@ -1,0 +1,16 @@
+body{
+    background-color: #2E144A; 
+    color: #0E0114;
+}
+
+.col-md-4{
+    background-color: white;
+    border: 10px solid #2E144A;
+    padding: 35px; 
+}
+
+.jumbotron{
+    background-color: white;
+    margin: 20px; 
+    text-align: center; 
+}
