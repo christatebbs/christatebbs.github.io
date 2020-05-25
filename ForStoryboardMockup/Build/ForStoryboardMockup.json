@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HydroflaskHomies",
+"dataUrl": "ForStoryboardMockup.data.unityweb",
+"asmCodeUrl": "ForStoryboardMockup.asm.code.unityweb",
+"asmMemoryUrl": "ForStoryboardMockup.asm.memory.unityweb",
+"asmFrameworkUrl": "ForStoryboardMockup.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
