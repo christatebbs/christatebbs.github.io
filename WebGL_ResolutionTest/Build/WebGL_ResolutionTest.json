@@ -1,0 +1,13 @@
+{
+"companyName": "Andromeda",
+"productName": "Tidal Waste",
+"dataUrl": "WebGL_ResolutionTest.data.unityweb",
+"asmCodeUrl": "WebGL_ResolutionTest.asm.code.unityweb",
+"asmMemoryUrl": "WebGL_ResolutionTest.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL_ResolutionTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 595591168,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
