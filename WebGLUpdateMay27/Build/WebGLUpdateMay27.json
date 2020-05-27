@@ -5,7 +5,7 @@
 "asmCodeUrl": "WebGLUpdateMay27.asm.code.unityweb",
 "asmMemoryUrl": "WebGLUpdateMay27.asm.memory.unityweb",
 "asmFrameworkUrl": "WebGLUpdateMay27.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 595591168,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
